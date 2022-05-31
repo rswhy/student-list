@@ -1,0 +1,1 @@
+export const FETCH_STUDENTS_DATA = 'students/fetchSuccess'

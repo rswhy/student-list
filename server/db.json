@@ -1,0 +1,6 @@
+{
+  "students": [
+    { "id": 1, "name": "Anthony Andara",  "phone": "08544244" , "address": "Jawa Timur" },
+    { "id": 2, "name": "Mira Ashfah",  "phone": "08544544" , "addres": "Jawa Barat" }
+  ]
+}
